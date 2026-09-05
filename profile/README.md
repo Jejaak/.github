@@ -8,6 +8,21 @@
 
 Jejak adalah platform permainan literasi keamanan digital berbahasa Indonesia. Pengalaman utamanya menggunakan desktop retro dengan tiga latihan: menjaga informasi pribadi, mengenali phishing, dan menangani file unduhan secara aman.
 
+---
+
+## Achievement
+
+**1st Place - FTI Festival 2026**  
+Category: **Web Development**
+
+Jejak was awarded 1st place in the Web Development category at FTI Festival 2026, held at SB Atma Luhur in Pangkalpinang.
+
+<p align="center">
+  <img src="../Image.png" alt="Jejak FTI Festival 2026 documentation" width="32%" />
+</p>
+
+---
+
 ## Mengapa Jejak
 
 Keamanan digital tidak cukup dipelajari sebagai daftar aturan. Pemain perlu melihat situasi yang menyerupai keputusan sehari-hari, memilih tindakan, lalu memahami alasan di balik hasilnya.
