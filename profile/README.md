@@ -18,7 +18,7 @@ Category: **Web Development**
 Jejak was awarded 1st place in the Web Development category at FTI Festival 2026, held at SB Atma Luhur in Pangkalpinang.
 
 <p align="center">
-  <img src="../Image.png" alt="Jejak FTI Festival 2026 documentation" width="32%" />
+  <img src="../Image.png" alt="Jejak FTI Festival 2026 documentation" width="100%" />
 </p>
 
 ---
